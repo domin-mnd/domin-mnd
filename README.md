@@ -1,6 +1,6 @@
 # About Me
 
-A russian fullstack programmer that knows html, css, js, java & *bit* of python!
+A fullstack Russian programmer who knows html, css, js, java & a *bit* python!
 
 ![Domin's activity](https://github-readme-stats.vercel.app/api?username=Domin-MND&theme=tokyonight&show_icons=true&hide=issues,stars)
 ![Domin's top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=Domin-MND&theme=tokyonight&show_icons=true&layout=compact)
