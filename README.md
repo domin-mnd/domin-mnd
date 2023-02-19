@@ -15,7 +15,6 @@ A fullstack web developer who has been programming since the age of 12. Proficie
   <img align="top" alt="SASS" width="40px" src="https://skillicons.dev/icons?i=sass" />
   <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
-  <img align="top" alt="Redux" width="40px" src="https://skillicons.dev/icons?i=redux" />
   <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
   <img align="top" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
 </div>
