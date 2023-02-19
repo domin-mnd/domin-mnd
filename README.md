@@ -9,11 +9,13 @@ A fullstack web developer who has been programming since the age of 12. Proficie
 <div>
   <img align="top" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java" />
   <img align="top" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />
+  <img align="top" alt="Rust" width="40px" src="https://skillicons.dev/icons?i=rust" />
   <img align="top" alt="Typescript" width="40px" src="https://skillicons.dev/icons?i=ts" />
   <img align="top" alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
   <img align="top" alt="SASS" width="40px" src="https://skillicons.dev/icons?i=sass" />
   <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
+  <img align="top" alt="Redux" width="40px" src="https://skillicons.dev/icons?i=redux" />
   <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
   <img align="top" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
 </div>
