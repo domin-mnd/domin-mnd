@@ -22,16 +22,14 @@ A fullstack web developer who has been programming since the age of 12. Proficie
 # Socials
 
 <a href="https://twitter.com/Dominiff">
-  <img alt="Twitter" src="https://img.shields.io/twitter/follow/Dominiff?color=%23628fda&label=Dominiff&logo=twitter&logoColor=%23628fda&style=flat" height="23px" />
+  <img alt="Twitter" src="https://img.shields.io/twitter/follow/Dominiff?color=335d8c&label=Dominiff&logo=twitter&logoWidth=25&logoColor=335d8c&labelColor=0d1117&style=for-the-badge" height="27px" />
 </a>
 <a href="https://reddit.com/u/Domin-MC">
-  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/link/Domin-MC?color=%23628fda&label=u%2FDomin-MC&logo=reddit&logoColor=%23628fda&style=flat" height="23px" />
+  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/link/Domin-MC?color=335d8c&label=u%2FDomin-MC&logo=reddit&logoWidth=25&logoColor=335d8c&labelColor=0d1117&style=for-the-badge" height="27px" />
 </a>
 <a href="https://discord.com/users/418306434317680641">
-  <img alt="Discord" src="https://img.shields.io/badge/Domin-%232874-%23628fda?style=flat&logo=discord&logoColor=%23628fda" height="23px" />
+  <img alt="Discord" src="https://img.shields.io/badge/Domin-%232874-335d8c?style=for-the-badge&logo=discord&logoWidth=25&logoColor=335d8c&labelColor=0d1117" height="27px" />
 </a>
 <a href="https://domin.pro">
-  <img alt="Card" src="https://img.shields.io/badge/Card-domin.pro-%23628fda?style=flat" height="23px" />
+  <img alt="Card" src="https://img.shields.io/badge/Card-domin.pro-335d8c?style=for-the-badge&logoWidth=25&labelColor=0d1117" height="27px" />
 </a>
-
-> **Note**: If you want to contact me please consider using either Discord or Reddit!
