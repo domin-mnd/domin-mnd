@@ -1,36 +1,26 @@
 # Sakhabutdinov Kamil
 
-A fullstack web developer who has been programming since the age of 12. Proficient in developing databases, creating user interfaces and implementing new features based on user feedback. Ready to learn and collaborate in rapidly changing environments and compositions.
+<img align="right" alt="My Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domin-MND&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
 
-<img align="right" alt="My top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domin-MND&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
+Hi, I’m an independent web developer based in Kazan, Russia.
+
+I mostly work with [frontend web development](https://cv.domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
+
+I’m interested in gaming, studying and experimenting with web design.
 
 # Skills
 
-<div>
-  <img align="top" alt="Java" width="40px" src="https://skillicons.dev/icons?i=java" />
-  <img align="top" alt="Python" width="40px" src="https://skillicons.dev/icons?i=py" />
-  <img align="top" alt="Rust" width="40px" src="https://skillicons.dev/icons?i=rust" />
-  <img align="top" alt="Typescript" width="40px" src="https://skillicons.dev/icons?i=ts" />
-  <img align="top" alt="Tailwind CSS" width="40px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img align="top" alt="SASS" width="40px" src="https://skillicons.dev/icons?i=sass" />
-  <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
+<div align="center">
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
+  <img align="top" alt="Vue.js" width="40px" src="https://skillicons.dev/icons?i=vue" />
+  <img align="top" alt="Webpack" width="40px" src="https://skillicons.dev/icons?i=webpack" />
   <img align="top" alt="Next.js" width="40px" src="https://skillicons.dev/icons?i=nextjs" />
+  <img align="top" alt="Remix" width="40px" src="https://skillicons.dev/icons?i=remix" />
+  <img align="top" alt="Nuxt" width="40px" src="https://skillicons.dev/icons?i=nuxt" />
   <img align="top" alt="NestJS" width="40px" src="https://skillicons.dev/icons?i=nestjs" />
+  <img align="top" alt="Express" width="40px" src="https://skillicons.dev/icons?i=express" />
+  <img align="top" alt="Three.js" width="40px" src="https://skillicons.dev/icons?i=threejs" />
+  <img align="top" alt="PostgreSQL" width="40px" src="https://skillicons.dev/icons?i=postgres" />
+  <img align="top" alt="MySQL" width="40px" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="top" alt="Figma" width="40px" src="https://skillicons.dev/icons?i=figma" />
 </div>
-
-
-# Socials
-
-<a href="https://twitter.com/Dominiff">
-  <img alt="Twitter" src="https://img.shields.io/twitter/follow/Dominiff?color=335d8c&label=Dominiff&logo=twitter&logoWidth=25&logoColor=335d8c&labelColor=0d1117&style=for-the-badge" height="27px" />
-</a>
-<a href="https://reddit.com/u/Domin-MC">
-  <img alt="Reddit" src="https://img.shields.io/reddit/user-karma/link/Domin-MC?color=335d8c&label=u%2FDomin-MC&logo=reddit&logoWidth=25&logoColor=335d8c&labelColor=0d1117&style=for-the-badge" height="27px" />
-</a>
-<a href="https://discord.com/users/418306434317680641">
-  <img alt="Discord" src="https://img.shields.io/badge/Domin-%232874-335d8c?style=for-the-badge&logo=discord&logoWidth=25&logoColor=335d8c&labelColor=0d1117" height="27px" />
-</a>
-<a href="https://domin.pro">
-  <img alt="Card" src="https://img.shields.io/badge/Card-domin.pro-335d8c?style=for-the-badge&logoWidth=25&labelColor=0d1117" height="27px" />
-</a>
