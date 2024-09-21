@@ -1,4 +1,4 @@
-# Sakhabutdinov Kamil
+# Kamil Sakhabutdinov
 
 <img align="right" alt="My Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domin-MND&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
 
