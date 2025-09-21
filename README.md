@@ -2,7 +2,7 @@
 
 <img align="right" alt="My Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domin-MND&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
 
-Hi, I’m an independent web developer based in Kazan, Russia.
+Hi, I’m a Russian web developer based in Tbilisi, Georgia.
 
 I mostly work with [frontend web development](https://cv.domin.lol), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
 
