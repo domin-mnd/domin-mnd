@@ -1,6 +1,6 @@
 # Kamil Sakhabutdinov
 
-<img align="right" alt="My Top Languages Used" src="https://readme-stats.domin.zip/api/top-langs/?username=Domin-MND&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
+<img align="right" alt="My Top Languages Used" src="https://readme-stats.domin.zip/api/top-langs/?username=dominnya&theme=github_dark&show_icons=true&layout=compact&border_color=21262d&border_radius=6" />
 
 Hi, I’m a Russian web developer based in Tbilisi, Georgia.
 
